@@ -1,6 +1,6 @@
 Summary:	Remote Subversion repository dump
 Name:		rsvndump
-Version:	0.5.4
+Version:	0.5.5
 Release:	%mkrel 1
 License:	GPLv3
 Group:		System/Servers
@@ -42,4 +42,3 @@ rm -rf %{buildroot}
 %defattr(-, root, root)
 %doc AUTHORS ChangeLog THANKS doc/rsvndump.txt
 %{_bindir}/rsvndump
-
