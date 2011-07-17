@@ -1,6 +1,6 @@
 Summary:	Remote Subversion repository dump
 Name:		rsvndump
-Version:	0.5.5
+Version:	0.5.6
 Release:	%mkrel 1
 License:	GPLv3
 Group:		System/Servers
