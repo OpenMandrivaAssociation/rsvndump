@@ -1,7 +1,7 @@
 Summary:	Remote Subversion repository dump
 Name:		rsvndump
-Version:	0.5.6
-Release:	%mkrel 1
+Version:	0.5.8
+Release:	1
 License:	GPLv3
 Group:		System/Servers
 URL:		http://rsvndump.sourceforge.net/
