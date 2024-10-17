@@ -4,7 +4,7 @@ Version:	0.6
 Release:	2
 License:	GPLv3
 Group:		System/Servers
-URL:		http://rsvndump.sourceforge.net/
+URL:		https://rsvndump.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/rsvndump/%{name}/%{name}-%{version}/%{name}-%{version}.tar.bz2
 BuildRequires:	apr-devel
 BuildRequires:	subversion-devel
