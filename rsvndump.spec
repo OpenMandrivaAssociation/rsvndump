@@ -6,6 +6,11 @@ License:	GPLv3
 Group:		System/Servers
 URL:		https://rsvndump.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/rsvndump/%{name}/%{name}-%{version}/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	apr-devel
 BuildRequires:	subversion-devel
 BuildRequires:	gettext-devel
